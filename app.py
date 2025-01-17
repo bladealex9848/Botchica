@@ -51,7 +51,7 @@ client = openai
 st.title("Bienvenido a Botchica ⚖️🤖")
 
 st.write("""
-        ![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Ffamiliabot.streamlit.app&label=Visitantes&labelColor=%235d5d5d&countColor=%231e7ebf&style=flat)
+        ![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fbotchica.streamlit.app&label=Visitantes&labelColor=%235d5d5d&countColor=%231e7ebf&style=flat)
         """)
 
 st.markdown("""
