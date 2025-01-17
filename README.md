@@ -1,4 +1,4 @@
-![Logo de BochicaBot](https://github.com/bladealex9848/BochicaBot/blob/main/assets/logo.jpg)
+![Logo de Botchica](https://github.com/bladealex9848/Botchica/blob/main/assets/logo.jpg)
 
 # Botchica ⚖️🤖
 
