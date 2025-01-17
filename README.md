@@ -3,11 +3,7 @@
 # Botchica ⚖️🤖
 
 ## Descripción
-<<<<<<< HEAD
 Botchica es un agente de IA que te informa sobre el proyecto Bochica, un sistema unificado para la provisión de vacantes temporales en la Rama Judicial de Colombia.
-=======
-FamiliaBot es un agente de IA especializado en derecho de familia en Colombia. Su base de conocimiento incluye el Código Civil Colombiano, la Ley 1564 de 2012 (Código General del Proceso), la Ley 1098 de 2006 (Código de la Infancia y la Adolescencia), la Ley 2388 de 2024, jurisprudencia relevante de la Corte Suprema de Justicia, y la Ley 1996 de 2019.
->>>>>>> 110271d0e8641fc64eddc785813cc7f2e26742c1
 
 ## Funcionalidades
 * Describe el problema que Bochica busca solucionar.
